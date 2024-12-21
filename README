@@ -1,0 +1,7 @@
+#TYPES OF MACHINE LEARNING
+
+1. SUPERVISED LEARNING  => HỌC GIÁM SÁT (popular, data are labeled)
+ex: pictures, or news with name or topic attached
+2. UNSUPERVISED LEARNING => KHÔNG GIÁM SÁT (popular, data are unlabeled)
+ex: pictures, or news without name or topic attached
+3. REINFORCEMENT LEARNING => TĂNG CƯỜNG
